@@ -1,12 +1,11 @@
-Claro! Aqui está uma versão do README com edições básicas de HTML e ícones, conforme solicitado:
-
----
 
 # Gabrielle Lima - Psicóloga Clínica
 
-## Como Rodar a Aplicação
+## 🛠️ Como Rodar a Aplicação
 
 Siga os passos abaixo para rodar a aplicação localmente:
+```markdown
+
 
 1. **Baixar o projeto**: Clone este repositório para sua máquina local utilizando o comando:
 
@@ -28,25 +27,25 @@ Siga os passos abaixo para rodar a aplicação localmente:
 
    Isso iniciará o servidor localmente. Abra o navegador e acesse `http://localhost:3000` para ver a aplicação em funcionamento.
 
-## Versão Online
+## 🌐 Versão Online
 
 Você também pode acessar a aplicação online através do link:
 
 [Gabrielle Lima - Psicóloga Clínica](https://gabrielle-psi-alpha.vercel.app)
 
-## Páginas Disponíveis
+## 📑 Páginas Disponíveis
 
-- <i class="fas fa-home"></i> **Início**: Página principal com uma introdução sobre o trabalho de Gabrielle Lima.
-- <i class="fas fa-user"></i> **Sobre**: Informações sobre a profissional e sua abordagem terapêutica.
-- <i class="fas fa-book"></i> **Pesquisas**: Artigos e pesquisas acadêmicas publicadas por Gabrielle Lima.
-- <i class="fas fa-envelope"></i> **Contato**: Formas de contato, incluindo e-mail, WhatsApp e localização.
+- 🏠 **Início**: Página principal com uma introdução sobre o trabalho de Gabrielle Lima.
+- 👩‍⚕️ **Sobre**: Informações sobre a profissional e sua abordagem terapêutica.
+- 📚 **Pesquisas**: Artigos e pesquisas acadêmicas publicadas por Gabrielle Lima.
+- 📧 **Contato**: Formas de contato, incluindo e-mail, WhatsApp e localização.
 
-## Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 Este site foi desenvolvido utilizando as seguintes tecnologias:
 
-- <i class="fab fa-react"></i> React.js
-- <i class="fab fa-node"></i> Node.js
-- <i class="fas fa-cloud"></i> Vercel (para hospedagem)
-
----
+- 🟢 **React.js**
+- 🔵 **Node.js**
+- 🟣 **Twind CSS**
+- ⚪ **TypeScript**
+- ☁️ **Vercel** (para hospedagem)
