@@ -4,8 +4,6 @@
 ## 🛠️ Como Rodar a Aplicação
 
 Siga os passos abaixo para rodar a aplicação localmente:
-```markdown
-
 
 1. **Baixar o projeto**: Clone este repositório para sua máquina local utilizando o comando:
 
