@@ -7,14 +7,4 @@
     src: url("../src/font/BrightDemo-axVxE.otf") format("opentype");
     font-display: swap;
   }
- h1{
-    font-family: "bright", sans-serif !important;
-    font-size: 3.6rem!important;
- }
- h2{
-    font-family: "bright", sans-serif !important;
- }
- span{
-    font-family: "bright", sans-serif !important;
-    font-size: 2rem!important;
- }
+ 
