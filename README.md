@@ -8,7 +8,7 @@ Siga os passos abaixo para rodar a aplicação localmente:
 1. **Baixar o projeto**: Clone este repositório para sua máquina local utilizando o comando:
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git@github.com:maiconbre/Gabrielle-Psi.git
    ```
 
 2. **Instalar dependências**: Navegue até o diretório do projeto e execute o seguinte comando para instalar as dependências necessárias:
