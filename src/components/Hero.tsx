@@ -16,7 +16,7 @@ const Hero = () => {
             transition={{ duration: 0.8 }}
           >
             <h1 className="font-display text-4xl md:text-6xl text-primary mb-6">
-              Bem-vindo ao seu lugar de acolhimento
+              Bem-vindo ao seu espaço de acolhimento
             </h1>
             <p className="text-lg text-accent mb-8">
               Psicóloga clínica especializada em Esquizoanálise, oferecendo um ambiente seguro 
