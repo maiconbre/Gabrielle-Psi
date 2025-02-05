@@ -52,13 +52,13 @@ const About = () => {
                 <ul className="list-disc list-inside text-accent">
                   <li>Ansiedade</li>
                   <li>Depressão</li>
-                  <li>Autoconhecimento</li>
+                  <li>Traumas</li>
                 </ul>
               </div>
               <div className="bg-white p-4 rounded-lg shadow-md">
                 <h4 className="font-display text-primary mb-2">Formação</h4>
                 <ul className="list-disc list-inside text-accent">
-                  <li>Psicologia Clínica</li>
+                  <li>Psicologia</li>
                   <li>Esquizoanálise</li>
                   <li>Saúde Mental</li>
                 </ul>
