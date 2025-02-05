@@ -38,11 +38,6 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="relative"
           >
-            <img
-              src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80"
-              alt="Ambiente acolhedor"
-              className="rounded-lg shadow-xl w-full h-[600px] object-cover"
-            />
           </motion.div>
         </div>
       </div>
